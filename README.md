@@ -35,7 +35,7 @@ Currently building skills in **Cybersecurity** and **Web Development**.
 
 ## 🛠️ Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,c++,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,C++,linux,git,github" />
 </p>
 
 ---
