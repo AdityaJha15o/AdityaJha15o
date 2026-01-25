@@ -2,7 +2,7 @@
 
 ### 🛡️ Emerging Cybersecurity Enthusiast | 🌐 Web Developer
 
-I am a passionate learner from India 🇮🇳  
+I am a passionate learner from India 
 Currently building skills in **Cybersecurity** and **Web Development**.
 
 ---
