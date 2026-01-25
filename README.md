@@ -50,7 +50,8 @@ Currently building skills in **Cybersecurity** and **Web Development**.
 ---
 
 ## 📫 Contact
-- 💼 GitHub: https://github.com/AdityaJha15o 
+- 💼 GitHub: https://github.com/AdityaJha15o
+
 Email : adityajhasusari@gmail.com 
 ---
 
