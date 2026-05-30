@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdityaJha15o&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
 # Hi 👋 I'm Aditya
 
 ### B.Tech IT Student
