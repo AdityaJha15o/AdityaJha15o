@@ -4,7 +4,6 @@
 
 # Hi 👋 I'm Aditya
 
-### B.Tech IT Student
 
 ## About Me
 B.Tech IT student passionate about problem-solving and continuous learning. Skilled in C++ and Python with a foundation in DSA and real-world project development. 
